@@ -1,4 +1,4 @@
-# 👋 Hola, soy **Jhostyn “IbuJes” Benalcázar**
+# 👋 Hola, soy **Jhostyn Benalcázar**
 
 **Analista de TI & Desarrollador Backend** | +2 años en desarrollo Full‑Stack 🚀
 
