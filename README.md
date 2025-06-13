@@ -1,42 +1,42 @@
-# 👋 Hola, soy **Jhostyn Benalcázar**
+# 👋 Hi, I’m **Jhostyn “IbuJes” Benalcázar**
 
-**Analista de TI & Desarrollador Backend** | +2 años en desarrollo Full‑Stack 🚀
-
----
-
-## 🔧 Tecnologías & habilidades
-
-- **🖥️ Lenguajes**: Java · Node.js · PHP (Laravel) · C# (.NET)  
-- **💾 Bases de datos**: PostgreSQL · SQL Server · MongoDB (NoSQL)  
-- **🔐 Autenticación**: JWT · APIs REST  
-- **🐳 DevOps & herramientas**: Docker · Git · Postman · CI/CD  
-- **📲 Notificaciones**: OneSignal · Webhooks
+**Software Developer**  🚀
 
 ---
 
-## ⭐ Lo más destacado
+## 💡 Tech & Skills
 
-- 🛡️ **Autenticación segura con JWT** para login/registro y roles  
-- 🔔 **Notificaciones en tiempo real** (OneSignal + Webhooks)  
-- 📊 **Optimización de bases de datos** relacionales y semiestructuradas  
-- ⚙️ **APIs RESTful escalables** con seguridad, validación y modularidad
-
----
-
-## 🚀 ¿Por qué seguirme?
-
-- Código **limpio, documentado y testeado**  
-- Experiencia real con **despliegues backend y notificaciones push**  
-- En constante aprendizaje: microservicios, pruebas automatizadas, AWS/Azure/K8s
+- **🛠 Languages**: **Java** · **Node.js** · **PHP (Laravel)** · **C# (.NET)**
+- **🗄 Databases**: **PostgreSQL** · **SQL Server** · **MongoDB**
+- **🔐 Auth & APIs**: JWT-secured APIs · RESTful design
+- **☁️ Tools & Environments**: Docker · Git · Postman
+- **📲 Notifications**: OneSignal integration
 
 ---
 
-## 📫 Conectemos
+## 🌟 Highlights
 
-- 🌐 **LinkedIn**: [linkedin.com/in/jhostyn-gabriel-benalcazar-ibujes](https://www.linkedin.com/in/jhostyn-gabriel-benalcazar-ibujes/) :contentReference[oaicite:1]{index=1}  
-- 📌 **GitHub**: esta es tu vitrina, ¡dale ⭐ a tus proyectos favoritos!
+- Developed **secure JWT-based login** systems  
+- Built **real-time push notifications** with OneSignal  
+- Optimized both **relational and NoSQL databases**  
+- Created **robust and scalable REST APIs**
+
+---
+
+## 🎯 What Sets Me Apart
+
+- **Clean, well-documented code** you can trust  
+- Real-world experience deploying backend systems  
+- Actively learning microservices, testing strategies, and cloud (AWS/Azure/Kubernetes)
+
+---
+
+## 📬 Let’s Connect
+
+- **LinkedIn**: [Jhostyn Gabriel Benalcázar](https://www.linkedin.com/in/jhostyn-gabriel-benalcazar-ibujes/) :contentReference[oaicite:1]{index=1}  
+- **GitHub**: Let your projects shine—star your favorites!
 
 ---
 
 
-**¡Gracias por pasar! Si tienes una idea o proyecto, hablemos.** 😊
+**Thanks for stopping by!** Got an idea or want to collaborate? Let’s chat. 😊
