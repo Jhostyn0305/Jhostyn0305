@@ -33,7 +33,7 @@
 
 ## 📬 Let’s Connect
 
-- **LinkedIn**: [Jhostyn Gabriel Benalcázar](https://www.linkedin.com/in/jhostyn-gabriel-benalcazar-ibujes/) :contentReference[oaicite:1]{index=1}  
+- **LinkedIn**: [Jhostyn Gabriel Benalcázar](https://www.linkedin.com/in/jhostyn-gabriel-benalcazar-ibujes/) 
 - **GitHub**: Let your projects shine—star your favorites!
 
 ---
